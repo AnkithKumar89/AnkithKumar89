@@ -6,7 +6,10 @@ I am a soon-to-be Computer Science graduate with a year of practical experience 
 *   🌍  I'm based in Bangalore, India
 *   ✉️  You can contact me at [anaysingh803@gmail.com](mailto:anaysingh803@gmail.com)
 *   🧠  I'm currently developing my skills in the JavaScript tech-stack.
-*   🤝  I'm open to collaborating on innovative projects in the field of Software Development and Backend Development. Please feel free to contact me if you are interested in collaborating.### Skills 
+*   🤝  I'm open to collaborating on innovative projects in the field of Software Development and Backend Development. Please feel free to contact me if you are interested in collaborating.
+
+### Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
