@@ -4,7 +4,6 @@ Hi 👋 My name is Ankith Kumar
 I am a soon-to-be Computer Science graduate with a year of practical experience with development and testing applications for Android, Web, and Windows platforms. I am proficient in Backend Development, with a particular focus on Python full-stack development.
 
 *   🌍  I'm based in Bangalore, India
-*   ✉️  You can contact me at [anaysingh803@gmail.com](mailto:anaysingh803@gmail.com)
 *   🧠  I'm currently developing my skills in the JavaScript tech-stack.
 *   🤝  I'm open to collaborating on innovative projects in the field of Backend Development. Please feel free to contact me if you are interested in collaborating.
 
