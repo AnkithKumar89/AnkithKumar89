@@ -12,7 +12,7 @@ I am a soon-to-be Computer Science graduate with a year of practical experience 
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,git,bash,linux" alt="Python, Git, Bash, Linux"  title="Python, Git, Bash, Linux" />
+    <img src="https://skillicons.dev/icons?i=py,flask,django,git,bash,linux" alt="Python, Flask, Django, Git, Bash, Linux"  title="Python, Flask,Django, Git, Bash, Linux" />
   </a>
 </p>
                     
